@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "ligthouse font";
+    src: url(lighthouse font.eot) format("truetype");
+    
+
+}
+
+
+body {
+    background: slategray;
+}
+.title {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(82, 245, 209);
+    font-family: lighthouse font;
+        
+}
+.me {
+    transform: rotate(270deg);
+    float: left;
+    margin: ;
+}
+.bioList {
+    color: white;
+    margin: 0 0 0 15%;
+}
+.sub  {
+    color: rgb(231, 114, 114);
+}
+.boxed {
+    border: 5px double white;
+    background: rgb(3, 3, 112);
+    margin: 90px;
+
+}
